@@ -1,7 +1,7 @@
 
 # 📡 Smart Signal Quality Lab - Interference Detection System
 
-> **Techgium 2025 | Live App:** https://expert-signal-scope-lab.base44.app
+| Live App:** https://expert-signal-scope-lab.base44.app
 > **GitHub:** https://github.com/mkyashaswini05-sketch/smart-signal-quality-interference
 
 ### 🚀 Project Overview
@@ -28,6 +28,4 @@ Expert Signal Scope Lab provides interactive dashboard for visualization.
 This lab provides tools to simulate, detect, and mitigate interference in communication signals, ideal for telecom, IoT, and defense.
 
 ### 👥 Team
-Techgium 2025 Innovation Challenge
-
-Made with ❤️ for Techgium 2025
+ IBM skills Build
